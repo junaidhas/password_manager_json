@@ -3,6 +3,11 @@ Welcome to the Python Password Manager repository! This simple yet powerful tool
 
 **App Demo Image/GIF**
 
+
+https://github.com/junaidhas/password_manager_json/assets/97498014/cf977a00-e860-4af7-80b6-d2f609cf99dd
+
+
+
 **Features** 🌟
 - Strong Password Generation: Create complex passwords combining uppercase, lowercase, numbers, and symbols.
 - Secure Storage: Your passwords are securely stored and can be accessed only via this manager.
